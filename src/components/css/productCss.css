@@ -1,0 +1,143 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+.productscontainer{
+    position: relative;
+    width: 1440px;
+    height: 1668px;
+
+}
+
+.productSearchbox{
+    position: absolute;
+    width: 1255px;
+    height: 56px;
+    top: 87px;
+    left: 103px;
+    background: rgba(246, 246, 246, 1);
+}
+.productsearchicon{
+    position: absolute;
+    width: 17.49px;
+    height: 17.49px;
+    top: 20px;
+    left: 20px;
+}
+.producthamburgoricon{
+    position: absolute;
+    width: 18px;
+    height: 12px;
+    top: 20px;
+    right: 24px;
+}
+
+.productItemcard{
+    position: absolute;
+    margin: 0;
+    width: 1201px;
+    height: 386px;
+    left: 133px;
+}
+.productItemcard1{
+top: 189px;
+}
+.productItemcard2{
+    top: 660px;
+}
+.productItemcard3{
+    top: 1131px;
+}
+.productline{
+    position: absolute;
+    margin: 0;
+    width: 1255px;
+    left: 120px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    rotate: 0.05deg;
+    border: 1px solid rgba(232, 232, 232, 1);
+    align-items: center;
+}
+.productline1{
+    top: 618px;
+}
+.productline2{
+    top: 1089px;
+}
+.productline3{
+    top: 1560px;
+}
+.producttempContainer{
+    position: relative;
+    width: 304px;
+    height: 386px;
+    top: 0px;
+    left: 0px;
+    background: rgba(229, 229, 229, 1);
+
+
+}
+.producttemptitle{
+    position: absolute;
+    margin: 0;
+    width: 159px;
+    height: 29px;
+    top: 5px;
+    left: 359px;
+    font-family: Roboto Mono;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 29.01px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+.producttemptext{
+    position: absolute;
+    margin: 0;
+    width: 843px;
+    height: 120px;
+    top: 41px;
+    left: 359px;
+    font-family: Roboto Mono;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 23.74px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+.producttempval{
+    position: absolute;
+    margin: 0;
+    width: 81px;
+    height: 36px;
+    top: 282px;
+    left: 359px;
+    font-family: Roboto Mono;
+    font-size: 27px;
+    font-weight: 500;
+    line-height: 35.61px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+.productcartcontainer{
+    position: absolute;
+    margin: 0;
+    width: 123px;
+    height: 42px;
+    top: 335px;
+    left: 359px;
+    background: rgba(0, 0, 0, 1);
+}
+.productcartcontainertext{
+    position: relative;
+    margin: 0;
+    width: 96.13px;
+    height: 18px;
+    top: 11px;
+    left: 14.47px;
+    font-family: Roboto Mono;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18.46px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}

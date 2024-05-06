@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+.aboutushead{
+    position: relative;
+    margin: 0;
+    width: 1440px;
+    height: 1668px;
+    background: rgba(255, 255, 255, 1);
+}
+.aboutustext{
+    position: absolute;
+    margin: 0;
+    width: 590px;
+    height: 288px;
+    font-family: Roboto Mono;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23.74px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+.aboutlorem1{
+    top: 164px;
+    left: 720px;
+}
+.aboutlorem2{
+    top: 599px;
+    left: 119px;
+    text-align: right;
+}
+.aboutlorem3{
+    top: 1030px;
+    left: 713px;
+}
+.aboutusprofilepng{
+    position: absolute;
+    margin: 0;
+    width: 497px;
+    height: 347px;
+    background: rgba(239, 239, 239, 1);
+
+}
+.aboutprofile1{
+    top: 135px;
+    left: 182px;
+}
+.aboutprofile2{
+    top: 565px;
+    left: 720px;
+}
+.aboutprofile3{
+    top: 995px;
+    left: 180px;
+}

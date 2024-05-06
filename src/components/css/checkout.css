@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+.checkoutpopup{
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    width: 711px;
+    height: 439px;
+    top: 244px;
+    left: 364px;
+    background: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(215, 215, 215, 1)
+  }
+  .checkoutpopupaddttl{
+    position: relative;
+    width: 390px;
+    height: 32px;
+    top: 30px;
+    left: 36px;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 31.65px;
+  }
+  .checkpopupcont{
+    position: absolute;
+    margin: 0;
+    width: 622px;
+    height: 268px;
+    top: 80px;
+    left: 40px;
+    border: 1px 0px 0px 0px;
+    border: 1px solid rgba(215, 215, 215, 1);
+  }
+  .checkpopupcancel{
+    top: 371px;
+    left: 231px;
+    width: 207px;
+    height: 41px;
+  }
+  .checkpopupdelete{
+    width: 207px;
+    height: 41px;
+   left: 455px;
+   top: 371px;
+
+
+  }
+
+.popupdeletecontainer{
+    position: absolute;
+    margin: 0;
+    width: 638px;
+    height: 192px;
+    top: 367px;
+    left: 415px;
+    color: rgba(255, 255, 255, 1);
+    border: 1px solid rgba(215, 215, 215, 1);
+  }
+  .popupdeletetitle{
+    position: relative;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 31.65px;
+    width: 318px;
+    height: 32px;
+    top: 34px;
+    left: 33px;
+  }
+  .deletepopupcancel{
+    top: 126px;
+    left: 177px;
+  }
+  .deletepopupdelete{
+    top: 126px;
+    left: 401px;
+  }

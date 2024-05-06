@@ -1,0 +1,435 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+.dash{
+    position: relative;
+    margin: 0;
+    width: 1440px;
+    height: 1216px;
+    background: rgba(255, 255, 255, 1);
+}
+.gp6{
+    position: absolute;
+    margin: 0;
+    width: 1104px;
+    height: 922px;
+    top: 125px;
+    left: 168px;
+    border: 1px solid rgba(216, 216, 216, 1);
+    border: 1px 0px 0px 0px;
+}
+.rect5{
+    position: relative;
+    width: 1104px;
+    height: 280px;
+    border: 1px solid rgba(216, 216, 216, 1)
+}
+.rect5t{
+    position: absolute;
+    left: 37px;
+    font-family: Roboto Mono;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 39.57px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+.rect5txt{
+   
+    width: 145px;
+    height: 40px;
+    top: 29px;
+}
+.rect5phn{
+    width: 130px;
+    height: 24px;
+    top: 84px;
+    font-weight: 400;
+    font-size: 18px;
+
+}
+.rect5mail{
+    width: 238px;
+    height: 24px;
+    top: 123px;
+    font-weight: 400;
+    font-size: 18px;
+}
+.rect5add{
+    top: 29px;
+    left: 433px;
+    width: 147px;
+    height: 40px;
+    font-weight: 700;
+}
+.rect5adddes{
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    width: 325px;
+    height: 96px;
+    top: 84px;
+    left: 433px;
+    font-family: Roboto Mono;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 23.74px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+.rect5line{
+    position: absolute;
+    height: 167px;
+    top: 26px;
+    left: 372.75px;
+    rotate: -90 deg;
+    border: 1px solid rgba(206, 206, 206, 1);
+}
+.rect5btn{
+    position: absolute;
+    width: 87px;
+    height: 41px;
+    top: 193px;
+    left: 37px;
+    background: rgba(0, 0, 0, 1);
+}
+.rect5btntxt{
+    position: relative;
+    width: 34px;
+    height: 18px;
+    top: 11px;
+    left: 26px;
+    font-family: Roboto Mono;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18.46px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+.rect5log{
+    width: 87px;
+    left: 139px;
+}
+.rect5logtxt{
+    left: 18px;
+    width: 51px;
+}
+.gp16{
+    position: absolute;
+    margin: 0;
+    width: 1024px;
+    height: 41px;
+    top: 306px;
+    left: 37px;
+    
+    border-bottom: 1px solid rgba(206, 206, 206, 1)
+
+}
+.gp6btn{
+
+    width: 87px;
+height: 41px;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset; 
+    background: rgba(233, 233, 233, 1);
+    border: 1px solid rgba(206, 206, 206, 1);
+
+
+}
+.orderspan{
+    
+    width: 51px;
+    height: 18px;
+    top: 11px;
+    left: 18px;
+    font-family: Roboto Mono;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18.46px;
+    text-align: left;
+}
+.btntests{
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset; 
+    background: rgba(233, 233, 233, 1);
+    border: 1px solid rgba(206, 206, 206, 1);
+}
+.btntests>span{
+    /* box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset; */
+    color: rgba(23, 23, 23, 1);
+}
+.tuf{
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset; 
+    background: rgba(233, 233, 233, 1);
+    border: 1px solid rgba(206, 206, 206, 1);
+}
+.tuf>span{
+    color: rgba(23, 23, 23, 1);
+}
+.comporder{
+    position: relative;
+    width: 1030px;
+    height: 462px;
+    top: 128px;
+    left: 37px;
+    gap: 20px;
+}
+.grp13{
+    position: absolute;
+    width: 1030px;
+height: 221px;
+border: 1px 0px 0px 0px;
+border: 1px solid rgba(216, 216, 216, 1)
+}
+.order2nd1st{
+    position: absolute;
+    top: 241px;
+}
+.grp13grp12{
+    position: relative;
+    margin:0;
+    width: 422px;
+    height: 194px;
+    top: 13px;
+    left: 26px;
+}
+.grp12id{
+    width: 199px;
+height: 40px;
+/* top: 526px;
+left: 231px; */
+gap: 0px;
+opacity: 0px;
+font-family: Roboto Mono;
+font-size: 30px;
+font-weight: 700;
+line-height: 39.57px;
+text-align: left;
+color: rgba(0, 0, 0, 1);
+}
+.grp12product{
+    width: 271px;
+    height: 24px;
+    font-size: 18px;
+}
+.grp12product>span{
+font-weight: 400;
+line-height: 23.74px;
+}
+.grp12add{
+    position: absolute;
+    margin: 0;
+    top: 96px;
+    width: 422px;
+    width: 422px;
+height: 96px;
+font-family: Roboto Mono;
+font-size: 18px;
+font-weight: 700;
+line-height: 23.74px;
+text-align: left;
+
+
+
+}
+.grp12addspan{
+    font-family: Roboto Mono;
+font-size: 18px;
+font-weight: 400;
+line-height: 23.74px;
+text-align: left;
+}
+.grp13grp11{
+    position: absolute;
+    margin:0;
+    width: 207px;
+    height: 151px;
+    top: 35px;
+    left: 788px;
+}
+.grp11VD{
+    position: relative;
+    margin: 0;
+    width: 207px;
+    height: 41px;    
+    background: rgba(0, 0, 0, 1);
+
+}
+.TO{
+    top: 14px;
+}
+.DI{
+    top: 28px;
+}
+.grp11title{
+    position: absolute;
+    margin: 0;
+    width: 104px;
+    top: 11px;
+    left: 52px;
+    font-family: Roboto Mono;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18.46px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+
+}
+.grp11titleTO{
+    left: 56px;
+    width: 95px;
+}
+.grp11titleDI{
+    left: 34px;
+    width: 139px;
+}
+
+
+/* TESTS */
+
+.tests12mn3{
+    position: absolute;
+    width: 0;
+    width: 1030px;
+    height: 250px;
+    top: 361px;
+    left: 37px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+
+}
+.testsSearchBtx12{
+    top: 0;
+    left: 0;
+    width: 1030px;
+}
+.testsDet{
+    position: relative;
+    width: 1030px;
+    height: 174px;
+    top: 76px;
+    border: 1px solid rgba(216, 216, 216, 1)
+}
+.testName{
+    position: absolute;
+    top: 13px;
+    left: 26px;
+}
+.tstMod{
+    position: absolute;
+    width: 260px;
+    height: 24px;
+    top: 61px;
+    left: 26px;
+    font-family: Roboto Mono;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 23.74px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+}
+.tstMod > span{
+    font-weight: 400;
+}
+.tstdate{
+    width: 217px;
+    height: 24px;
+    top: 86px;
+    left: 26px;
+}
+.tstdate>span{
+    font-weight: 400;
+}
+.tstMarks{
+    width: 184px;
+    height: 24px;
+    top: 111px;
+    left: 26px;
+}
+.tstMarks>span{
+    font-weight: 400;
+}
+.tstDUR{
+    width: 184px;
+    height: 24px;
+    top: 137px;
+}
+.tstDUR>span{
+    font-weight: 400;
+}
+.tstbtn{
+    position: relative;
+    margin: 0;
+    width: 207px;
+    height: 41px;
+    top: 66px;
+    left: 789px;
+    background: rgba(0, 0, 0, 1);
+}
+.tstbtntitle{
+    position: absolute;
+    width: 45px;
+    height: 18px;
+    top: 11px;
+    left: 88px;
+    font-family: Roboto Mono;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 18.46px;
+    text-align: left;
+    color:rgba(255, 255, 255, 1);
+}
+
+
+     /* Q/A */
+.qa{
+    position: relative;
+    width: 1030px;
+    height: 199px;
+    top: 101px;
+    left: 37px;
+        
+}
+.QASearch{
+    top: 0;
+    left: 0;
+    width: 645px;
+}    
+.or{
+    position: absolute;
+    top: 13px;
+    left: 699px;
+    width: 22px;
+    height: 24px;
+} 
+.QAbtn1{
+    top:6px;
+    width: 207px;
+}
+.QAbtn1txt{
+    width: 153px;
+    left: 27px;
+    top: 11px;
+}
+.QAtemp{
+    top: 40px;
+    height: 123px;
+
+}
+.QAqueTtl{
+    top: 19px;
+    width: 202px;font-family: Roboto Mono;
+    font-size: 24px;
+    line-height: 31.65px;
+    
+
+}
+.VR{
+    top: 35px;
+    right: 42px;
+    width: 207px;
+    height: 41px;
+}
+.VRtxt{
+    width: 86px;
+    top: 12px;
+    left: 61px;
+}
+    
